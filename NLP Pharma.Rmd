@@ -1,13 +1,13 @@
 ---
-title: "Capstone Project Effectiveness of a Drug"
+title: "Effectiveness of a Drug"
 author: "Hannes Schiller"
 date: "3/23/2020"
 output: pdf_document
 ---
 Load the Dataset
 ```{r}
-test= read.csv("/Users/owner/Documents/Capstone/drugsCom_raw/drugsComTest_raw_csv.csv")
-train= read.csv("/Users/owner/Documents/Capstone/drugsCom_raw/drugsComTrain_raw_csv.csv")
+test= read.csv("/Users/owner/Documents/drugsComTest_raw_csv.csv")
+train= read.csv("/Users/owner/Documents/drugsComTrain_raw_csv.csv")
 ```
 
 Combine both datasets
