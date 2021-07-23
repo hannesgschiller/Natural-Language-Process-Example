@@ -9,3 +9,5 @@ Given textual data on a Drug, build a ML model to determine its effectiveness:
 ![image](https://user-images.githubusercontent.com/68882388/126827394-af41a5c1-8577-4ee0-aff5-2d88df319cb6.png)
 ![image](https://user-images.githubusercontent.com/68882388/126827543-1eb85f89-3a39-4e01-a0fb-4c41cbe5d2c4.png)
 
+Find the data from:
+https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29#
